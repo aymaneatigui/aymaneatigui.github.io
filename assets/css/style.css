@@ -1340,9 +1340,9 @@ textarea.form-input::-webkit-resizer {
   justify-content: center;
   align-items: center;
   gap: 10px;
-  padding: 13px 20px;
+  padding: 10px 15px;
   border-radius: 14px;
-  font-size: var(--fs-6);
+  font-size: 12px;
   text-transform: capitalize;
   box-shadow: var(--shadow-3);
   z-index: 1;
@@ -1620,7 +1620,11 @@ textarea.form-input::-webkit-resizer {
     --fs-8: 14px;
   }
 
+  .form-btn2 {
+    font-size: 15px;
+    padding: 12px 18px;
 
+  }
 
   /**
    * #ABOUT
