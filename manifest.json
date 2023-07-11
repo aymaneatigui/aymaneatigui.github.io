@@ -1,0 +1,37 @@
+{
+  "name": "AYMANE ATIGUI",
+  "icons": [
+    {
+      "src": "./assets/images/atigui/atigui48.jpg",
+      "sizes": "48x48",
+      "type": "image/jpg"
+    },
+    {
+      "src": "./assets/images/atigui/atigui72.jpg",
+      "sizes": "72x72",
+      "type": "image/jpg"
+    },
+    {
+      "src": "./assets/images/atigui/atigui96.jpg",
+      "sizes": "96x96",
+      "type": "image/jpg"
+    },
+    {
+        "src": "./assets/images/atigui/atigui144.jpg",
+        "sizes": "144x144",
+        "type": "image/jpg"
+    },
+    {
+        "src": "./assets/images/atigui/atigui168.jpg",
+        "sizes": "168x168",
+        "type": "image/jpg"
+    },
+    {
+        "src": "./assets/images/atigui/atigui192.jpg",
+        "sizes": "192x192",
+        "type": "image/jpg"
+    }
+  ],
+  "start_url": ".",
+  "description": "Hi, I am Aymane, Full-stack Developer 🚀 Photographer ✨ and Digital creator 🎥"
+}
