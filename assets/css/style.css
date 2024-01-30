@@ -502,6 +502,8 @@ main {
   justify-content: center;
   align-items: center;
   padding: 0 10px;
+  margin-bottom: 10px;
+
 }
 
 .navbar-link {
@@ -1919,6 +1921,7 @@ textarea.form-input::-webkit-resizer {
   .navbar-list {
     gap: 30px;
     padding: 0 20px;
+    margin-bottom: 0;
   }
 
   .navbar-link {
@@ -2146,6 +2149,10 @@ textarea.form-input::-webkit-resizer {
   .myClass {
     column-count: 3;
   }
+  
+  .imgdiv {
+    width: 100%;
+  }
 }
 
 @media (min-width: 1024px) {
@@ -2163,7 +2170,6 @@ textarea.form-input::-webkit-resizer {
 }
 
 .imgdiv {
-  width: 100%;
   margin-left: 10px;
   margin-right: 10px;
   margin-bottom: 10px;
